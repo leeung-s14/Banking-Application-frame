@@ -7,8 +7,6 @@ public class bankingsoftware {
         Software.write();
 
 
-System.out.println("Say hello");
-
 
 
     }
