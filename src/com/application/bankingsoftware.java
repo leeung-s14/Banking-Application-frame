@@ -5,6 +5,7 @@ public class bankingsoftware {
     public static void main(String[] args) {
         MyFrame Software = new MyFrame();
         Software.write();
+        System.out.println("Hello World");
 
 
 
